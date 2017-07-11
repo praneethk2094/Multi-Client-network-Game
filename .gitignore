@@ -1,0 +1,16 @@
+# Created by .ignore support plugin (hsz.mobi)
+.classpath
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+.project
+.settings/
+Aos.iml
+Project Cn.zip
+bin/
+src/
+.class
+/client/Client.class
+/client/Game.class
+/Server/MultiServer.class
+/Server/Serverk.class
